@@ -1,2 +1,2 @@
-# statistics-365datascience
-statistics course
+## 365datascience
+
